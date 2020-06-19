@@ -1,0 +1,19 @@
+Cloud Services: Google Cloud Platform, Oracle Cloud Infrastructure.
+
+Configuration Management tools: Ansible, Puppet.
+
+OS Platforms: Redhat Linux, Ubuntu, Windows.
+
+SCM/Version Control Tools: GIT.
+
+Ticketing/Bug Tracking: Jira, Remedy, ServiceNow, TCS Cloudplus and ITRP.
+
+Virtualization: VMware, VCenter.
+
+Monitoring tools: Nagios, zabbix, IBM Spectrum Control
+
+Container and container orchestration tools: Docker, Docker swarm, Kubernetes
+
+Data protection tools: Snapmanager for SQL, Snapmanager for Virtual Infrastructure (VSC Plugin for VMware), Snapcenter, Acronis Backup, Rubrik CDM 5.0
+
+Proficient in Microsoft Excel.

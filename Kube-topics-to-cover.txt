@@ -1,0 +1,2 @@
+Service without selectors
+headless service
