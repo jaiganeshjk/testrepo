@@ -1,6 +1,8 @@
 git log -p: Prints full details of each commit
 git log --grep-reflog=<pattern>: Shows the list of commits when commit message matches regular expression pattern
 git log –follow ./path/to/filename: Shows the history for the current file
+git log --stat
+git log --all --oneline --graph --decorate
 git show: Outputs content changes of the specified commit
 git diff --color-words: Output has only the color-coded words that have changed
 git diff –staged: Shows the file differences between staging and the last committed version
