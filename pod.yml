@@ -14,5 +14,7 @@ spec:
      volumeMounts:
        - name: logpath
          mountPath: /var/logger
+     ports:
+       - containerPort: 8080
 ...
      
