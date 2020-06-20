@@ -1,3 +1,5 @@
+---
+# this is a simple pod manifest to create a simple nginx pod with logger sidecar container
 apiVersion: v1
 kind: Pod
 metadata:
