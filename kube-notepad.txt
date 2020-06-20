@@ -27,3 +27,5 @@ Generate Deployment YAML file (-o yaml). Don't create it(--dry-run) with 4 Repli
 kubectl create deployment --image=nginx nginx --dry-run -o yaml > nginx-deployment.yaml
 
 Save it to a file, make necessary changes to the file (for example, adding more replicas) and then create the deployment.
+
+how to create a cluster and add new nodes as worker nodes to the cluster
