@@ -1,3 +1,5 @@
-changinf the decritption just for conflics
+Service without selectors
 headless service
-adada mazhaida ada mazhaida
+storage providers
+security
+adding new nodes to existing clusters
